@@ -1,0 +1,7 @@
+C:\Users\Demid\Desktop\курсовая\практика\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
+C:\Users\Demid\Desktop\курсовая\практика\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.exe
+C:\Users\Demid\Desktop\курсовая\практика\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
+C:\Users\Demid\Desktop\курсовая\практика\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.csprojAssemblyReference.cache
+C:\Users\Demid\Desktop\курсовая\практика\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Users\Demid\Desktop\курсовая\практика\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.exe
+C:\Users\Demid\Desktop\курсовая\практика\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.pdb
